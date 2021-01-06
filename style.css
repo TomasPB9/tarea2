@@ -33,16 +33,18 @@
 }
 
 .grid-container>.item2{
-    height:290px;
+    height:680px;
     flex-direction: column;
     justify-content: center;
 }
 
 .grid-container>.item3{
+    height:290px;
     justify-content: space-around;
 }
 
 .grid-container>.item4{
+    height:290px;
     justify-content: space-around;
 }
 
