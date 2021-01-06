@@ -97,10 +97,17 @@
 }
 
 /* IMAGES */
+.circulo_footer{
+    width: 100px;
+    height: 100px;
+    margin-left: 200px;
+}
+
 .circulo{
     width: 100px;
     height: 100px;
     margin-left: 200px;
+    margin-top: 40px;
 }
 
 .capterra{
